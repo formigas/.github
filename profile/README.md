@@ -29,3 +29,10 @@ At formigas, we use those tools on a daily basis 👇
 ### **Vision & AI**
 
 - ⚙️ **fruitcore Co-Pilot**, a custom LLM for setting up, programming and trouble-shooting a entry-level industry robot
+
+## Curious about us?
+
+If you want to know more about our projects, our work or even our culture, feel free to reach out!
+
+- 🌐 [**Website**](https://formigas.io/)
+- 🤝 [**Linkedin**](https://www.linkedin.com/)
