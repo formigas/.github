@@ -1,5 +1,6 @@
-# Hey, we‘re formigas …
 <a href="https://formigas.io"><img src="./img/fmglogo_red.png" alt="Formigas Logo" width="300px"/></a>
+
+# Hey, we‘re formigas …
 
 … a tech-driven innovation studio based in Konstanz 🇩🇪 and Zurich 🇨🇭. We partner with pioneering companies to design, build and scale our digital future.
 
