@@ -1,4 +1,4 @@
-<a href="https://formigas.io"><img src="./img/Banner2.png" alt="Formigas Logo"/></a>
+<a href="https://formigas.io"><img src="./img/Banner3.png" alt="Formigas Logo"/></a>
 # Hey, we‘re formigas …
 
 
