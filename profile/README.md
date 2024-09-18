@@ -17,19 +17,19 @@ At formigas, we use those tools on a daily basis 👇
 
 ## **Check out our client work**
 
-### **Cross-platform**
+**Cross-platform**
 
-- 🧘 **homodea Meditation** & 📱**homodea**, two flutter apps for life design coach Veit Lindau, sharing a common package
-- 🔋 **chargeBIG**, a flutter app for charging cars, making any other physical interaction obsolete (certified by German Eichamt)
-- 🔦 **Lupine Light Control**, a flutter app for managing (and controlling) high-end bicycle lightning
+- 🧘 [**homodea Meditation**](https://apps.apple.com/de/app/homodea-meditation/id1640042438) & 📱[**homodea**](https://apps.apple.com/de/app/homodea/id6473463334), two flutter apps for life design coach Veit Lindau, sharing a common package
+- 🔋 [**chargeBIG**](https://apps.apple.com/de/app/chargebig/id1495948606), a flutter app for charging cars, making any other physical interaction obsolete (certified by German Eichamt)
+- 🔦 [**Lupine Light Control**](https://apps.apple.com/de/app/lupine-light-control-3-0/id1582228436), a flutter app for managing (and controlling) high-end bicycle lightning
 - 🤖 **horstOS**, an Android Custom ROM with apps, for managing a entry-level industry robot on a tablet
 
-### **Web**
+**Web**
 
 - 🫧 **Elma Hub**, a customer-facing cloud platform with product specific services
-- 🚿 **Sprinz Konfigurator**, a web-3d app to design your custom shower solution
+- 🚿 [**Sprinz Konfigurator**,](https://www.sprinz.eu/index.php?Duschenwelt-3D-Duschenkonfigurator) a web-3d app to design your custom shower solution
 
-### **Vision & AI**
+**Vision & AI**
 
 - ⚙️ **fruitcore Co-Pilot**, a custom LLM for setting up, programming and trouble-shooting a entry-level industry robot
 
