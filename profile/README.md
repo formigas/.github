@@ -38,4 +38,4 @@ At formigas, we use those tools on a daily basis 👇
 If you want to know more about our projects, our work or even our culture, feel free to reach out!
 
 - 🌐 [**Website**](https://formigas.io/)
-- 🤝 [**Linkedin**](https://www.linkedin.com/)
+- 🤝 [**Linkedin**](https://www.linkedin.com/company/formigas-gmbh/)
