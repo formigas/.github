@@ -10,7 +10,7 @@ On Github, we want to share our knowledge through helpful repos 👇
 
 ## Our open source tools
 
-- 🧱[**formigas flutter bricks**](https://github.com/formigas/formigas-flutter-bricks), our framework for an effortless project setup and fast development process
+- 🧱[**formigas Flutter Bricks**](https://github.com/formigas/formigas-flutter-bricks), our framework for an effortless project setup and fast development process
 
 At formigas, we use those tools on a daily basis 👇
 
